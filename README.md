@@ -2,6 +2,8 @@
 
 This project aims to develop a predictive system to classify breast cancer tumors based on data derived from Fine Needle Aspiration (FNA) tests. Using machine learning techniques, the model predicts whether a tumor is malignant (cancerous) or benign (non-cancerous), providing crucial insights into early cancer detection.
 
+![Brest Cancer Risk Prediction](https://github.com/kurmaviswakanth/Breast-Cancer-Risk-Prediction/blob/main/image.jpg)
+
 ## Project Overview
 
 The dataset used in this project is the **Breast Cancer Wisconsin (Diagnostic) Dataset**, sourced from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)). It contains features computed from digitized images of FNA tests, which describe the characteristics of the cell nuclei present in the breast tissue samples.
