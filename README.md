@@ -8,7 +8,7 @@ This project aims to develop a predictive system to classify breast cancer tumor
 
 The dataset used in this project is the **Breast Cancer Wisconsin (Diagnostic) Dataset**, sourced from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)). It contains features computed from digitized images of FNA tests, which describe the characteristics of the cell nuclei present in the breast tissue samples.
 
-###**Key Steps in the Project**
+### Key Steps in the Project
 - **Data Preprocessing:**
   - Removed irrelevant columns, such as the id column, and addressed missing values to ensure clean data.
   - Transformed categorical variables, like the diagnosis column, into numerical formats (malignant tumors coded as 1 and benign as 0) to make the data suitable for machine learning models.
